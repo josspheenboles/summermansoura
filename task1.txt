@@ -1,0 +1,6 @@
+
+create class human
+create class employee
+note
+describe it as carchteristic and actions
+	
